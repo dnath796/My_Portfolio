@@ -1,4 +1,4 @@
-# Hi, I’m Deepika Nath 👋
+# Hi, I’m Deepika Nath. 
 
 **Software Engineer | MSF Candidate @ Boston College | Quantitative Developer & Quant Analyst Candidate**
 
