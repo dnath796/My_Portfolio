@@ -1,6 +1,6 @@
 # Hi, I’m Deepika Nath. 
 
-**Software Engineer | MSF Candidate @ Boston College | Quantitative Developer & Quant Analyst Candidate**
+**Software Engineer | MSF Candidate @ Boston College | Quantitative Developer & Quant Analyst**
 
 ---
 
@@ -14,13 +14,13 @@ My career focus is at the intersection of **finance, quantitative modeling, and 
 
 ##  Quantitative & Technical Skills
 
-**Programming:** Python, JavaScript, TypeScript, Java, SQL
+**Programming:** Python, JavaScript, TypeScript, Java, SQL.
 
-**Quant & Analytics:** Financial Modeling, Regression Analysis, Time-Series Analysis, Risk Metrics, Statistical Modeling
+**Quant & Analytics:** Financial Modeling, Regression Analysis, Time-Series Analysis, Risk Metrics, Statistical Modeling.
 
-**Tools & Platforms:** Pandas, NumPy, Excel (Advanced Modeling), Power BI, Tableau, Git, Docker, CI/CD
+**Tools & Platforms:** Pandas, NumPy, Excel (Advanced Modeling), Power BI, Tableau, Git, Docker, CI/CD.
 
-**Systems:** Angular, Spring Boot, REST APIs, Microservices Architecture
+**Systems:** Angular, Spring Boot, REST APIs, Microservices Architecture.
 
 ---
 
@@ -59,11 +59,11 @@ Regression and statistical modeling projects for asset pricing, forecasting, and
 
 ## Career Interests
 
-* Quantitative Research & Modeling
-* Quantitative Developer Roles
-* Risk & Portfolio Analytics
-* Algorithmic Trading Systems
-* Financial Data Engineering
+* Quantitative Research & Modeling.
+* Quantitative Developer Roles.
+* Risk & Portfolio Analytics.
+* Algorithmic Trading Systems.
+* Financial Data Engineering.
 
 ---
 
