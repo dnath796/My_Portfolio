@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a Software Engineer with **6+ years of experience** building scalable, high-performance enterprise systems and analytics platforms, currently pursuing a **Master of Science in Finance (MSF) at Boston College**.
+I am a Software Engineer with **4+ years of experience** building scalable, high-performance enterprise systems and analytics platforms, currently pursuing a **Master of Science in Finance (MSF) at Boston College**.
 
 My career focus is at the intersection of **finance, quantitative modeling, and software engineering**, and I am actively seeking opportunities in **Quantitative Research, Quantitative Development, Financial Engineering, and Risk Analytics**.
 
