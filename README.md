@@ -49,9 +49,6 @@ My career focus is at the intersection of **finance, quantitative modeling, and 
 **Quant-Valuation-Models**
 Financial valuation toolkit implementing DCF, comparable company analysis, and scenario modeling.
 
-**Portfolio-Risk-Analytics**
-Python-based portfolio analytics system computing risk metrics, portfolio optimization, and performance visualization.
-
 **Financial-Regression-Models**
 Regression and statistical modeling projects for asset pricing, forecasting, and financial data analysis.
 
