@@ -14,33 +14,13 @@ My career focus is at the intersection of **finance, quantitative modeling, and 
 
 ##  Quantitative & Technical Skills
 
-**Programming:** Python, JavaScript, TypeScript, Java, SQL.
+**Programming:** Python, JavaScript, TypeScript, Java, SQL, R.
 
 **Quant & Analytics:** Financial Modeling, Regression Analysis, Time-Series Analysis, Risk Metrics, Statistical Modeling.
 
 **Tools & Platforms:** Pandas, NumPy, Excel (Advanced Modeling), Power BI, Tableau, Git, Docker, CI/CD.
 
 **Systems:** Angular, Spring Boot, REST APIs, Microservices Architecture.
-
----
-
-## Quantitative Projects
-
-### DCF Valuation Engine
-
-* Built a Python-based **Discounted Cash Flow (DCF)** valuation model supporting multi-stage growth assumptions.
-* Implemented **WACC calculation, terminal value estimation, and sensitivity analysis** for valuation scenarios.
-* Automated valuation workflows for financial datasets.
-
-### Multi-Factor Regression Model
-
-* Developed a **multiple linear regression model** to analyze relationships between financial variables and asset returns.
-* Performed **hypothesis testing, confidence interval estimation, and statistical significance testing** using Python.
-
-### Portfolio Risk Analytics Dashboard
-
-* Created a dashboard to compute **portfolio returns, volatility, Sharpe ratio, and beta**.
-* Designed automated data ingestion and visualization pipelines for investment performance monitoring.
 
 ---
 
