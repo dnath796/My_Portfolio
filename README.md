@@ -11,6 +11,16 @@ I am a Software Engineer with **4+ years of experience** building scalable, high
 My career focus is at the intersection of **finance, quantitative modeling, and software engineering**, and I am actively seeking opportunities in **Quantitative Research, Quantitative Development, Financial Engineering, and Risk Analytics**.
 
 ---
+## Projects 
+
+**Portfolio Risk Analytics Dashboard**
+
+
+**Multi-Factor Regression Model (Asset Pricing)**
+
+**DCF Valuation Engine (Python)**
+
+---
 
 ##  Quantitative & Technical Skills
 
