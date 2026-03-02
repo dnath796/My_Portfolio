@@ -1,6 +1,6 @@
 # Hi, I’m Deepika Nath. 
 
-**Software Engineer | MSF Candidate 2027 @ Boston College | Quantitative Developer & Quant Analyst**
+**Software Engineer | Master of science in Mathematical Finance student @ Boston College | Quantitative Developer & Quant Analyst**
 
 ---
 
@@ -35,6 +35,16 @@ My career focus is at the intersection of **finance, quantitative modeling, and 
 ---
 
 ##  Pinned Repository Highlights
+
+**Multi-Factor Equity Valuation Engine**
+
+Tech Stack: Python, Pandas, Capital IQ ,API, Excel/VBA
+
+Objective: To automate the intrinsic valuation of S&P 500 constituents using a hybrid DCF-Relative approach.
+
+The Build: Developed a dynamic 3-stage Discounted Cash Flow model with a rolling WACC calculation and a peer-group multiples comp-sheet.
+
+Key Insight: The model identified a 22% valuation gap in the retail sector during Q3, outperforming the benchmark index by 4% upon price correction.
 
 **Quant-Valuation-Models**
 Financial valuation toolkit implementing DCF, comparable company analysis, and scenario modeling.
