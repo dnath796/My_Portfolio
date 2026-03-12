@@ -20,6 +20,8 @@ My career focus is at the intersection of **finance, quantitative modeling, and 
 
 **DCF Valuation Engine (Python)**
 
+**Percentage of Correct Sign Predictions (Directional Accuracy) for stock returns.**
+
 ---
 
 ##  Quantitative & Technical Skills
