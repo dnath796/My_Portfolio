@@ -33,7 +33,6 @@ Hendry general-to-specific methodology applied to commodity price dynamics (mont
 **Equity Research & Valuation**
 
 Full equity research report on Deere & Company (NYSE: DE) — 8 valuation exhibits, three-stage FCFF DCF, CAPM/WACC, DDM, P/E sensitivity, blended target ~$541.75/share (HOLD)
-Live 12-position equity portfolio tracker — React app with dark fintech UI and Recharts visualizations
 
 **Investment Banking**
 
