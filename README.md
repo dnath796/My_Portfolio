@@ -15,7 +15,6 @@ My career focus is at the intersection of **finance, quantitative modeling, and 
 
 **Portfolio Risk Analytics Dashboard**
 
-
 **Multi-Factor Regression Model (Asset Pricing)**
 
 **DCF Valuation Engine (Python)**
@@ -24,13 +23,42 @@ My career focus is at the intersection of **finance, quantitative modeling, and 
 
 ---
 
+## Research & Projects
+**Quantitative & Econometric Research**
+
+WTI crude oil return predictability — OLS with 17 predictors across financial, macro, energy, and geopolitical risk blocks; ARCH/GJR-GARCH diagnostics; HC3 robust standard errors; Bai-Perron structural break testing
+Natural gas price estimation — Henry Hub EIA data, quadratic trend + Fourier seasonality harmonics
+Hendry general-to-specific methodology applied to commodity price dynamics (monthly & weekly frequency)
+
+**Equity Research & Valuation**
+
+Full equity research report on Deere & Company (NYSE: DE) — 8 valuation exhibits, three-stage FCFF DCF, CAPM/WACC, DDM, P/E sensitivity, blended target ~$541.75/share (HOLD)
+Live 12-position equity portfolio tracker — React app with dark fintech UI and Recharts visualizations
+
+**Investment Banking**
+
+Investment Banking — valuation methodologies, M&A, LBO, and capital markets
+
+**Financial Modeling**
+
+DCF, FCF, and IPO valuation models in Python
+SLR/MLR regression pipelines on financial datasets
+Options volatility surface documentation and margin/position analysis tools
+
+
+## Certifications
+
+Bloomberg Finance Fundamentals
+J.P. Morgan Quantitative Research
+FINRA Securities License
+
 ##  Quantitative & Technical Skills
 
 **Programming:** Python, JavaScript, TypeScript, Java, SQL, R.
 
 **Quant & Analytics:** Financial Modeling, Regression Analysis, Time-Series Analysis, Risk Metrics, Statistical Modeling.
 
-**Tools & Platforms:** Pandas, NumPy, Excel (Advanced Modeling), Power BI, Tableau, Git, Docker, CI/CD.
+**Tools & Platforms:** Pandas, NumPy, Scipy, Excel (Advanced Modeling), Matplotlib, Power BI, Tableau, Git, Docker, CI/CD, Bloomberg.
 
 **Systems:** Angular, Spring Boot, REST APIs, Microservices Architecture.
 
