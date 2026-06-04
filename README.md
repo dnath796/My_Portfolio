@@ -47,9 +47,11 @@ Options volatility surface documentation and margin/position analysis tools
 
 ## Certifications
 
-Bloomberg Finance Fundamentals
-J.P. Morgan Quantitative Research
-FINRA Securities License
+**Bloomberg Finance Fundamentals**
+
+**J.P. Morgan Quantitative Research**
+
+**FINRA Securities License**
 
 ##  Quantitative & Technical Skills
 
